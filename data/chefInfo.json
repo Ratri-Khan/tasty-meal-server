@@ -1,0 +1,48 @@
+[{
+    "id": "1",
+    "name":"Monika Roy",
+    "like":"2400",
+    "recipes":"4",
+    "experience": "10",
+    "image":"https://d3nn873nee648n.cloudfront.net/900x600/15987/120-SM666564.jpg"
+},
+{
+    "id": "2",
+    "name":"Sneha Varma",
+    "like":"2000",
+    "recipes":"3",
+    "experience": "8",
+    "image":"https://media.gettyimages.com/id/685007139/photo/chef-in-commercial-kitchen-seasoning-food.jpg?s=612x612&w=0&k=20&c=nl7NDWE6coxObiyuNjUFzj6mVi3zCr2wiNhe75NwVSk="
+},
+{
+    "id": "3",
+    "name":"Adil Akram",
+    "like":"1900",
+    "recipes":"4",
+    "experience": "9",
+    "image":"https://media.istockphoto.com/id/960597260/photo/the-restaurant-is-always-full.webp?b=1&s=170667a&w=0&k=20&c=ZhiF4YrdChBrc4SxV8YiTEHiqXjkEy0Pbz1fCCFOAx8="
+},
+{
+    "id": "4",
+    "name":"Amira Gupta",
+    "like":"1500",
+    "recipes":"3",
+    "experience": "7",
+    "image":"https://media.istockphoto.com/id/1298088270/es/foto/joven-hermosa-mujer-sonriente-chef-con-los-brazos-cruzados-en-la-cocina.webp?b=1&s=612x612&w=0&k=20&c=LYGEAMH3aK4y4gQd7964ZJ4agOgzyRSuTZhe2Mv3HXk="
+},
+{
+    "id": "5",
+    "name":"Priya Sharma",
+    "like":"2300",
+    "recipes":"5",
+    "experience": "10",
+    "image":"https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+{
+    "id": "6",
+    "name":"Vikram Singh",
+    "like":"2500",
+    "recipes":"7",
+    "experience": "14",
+    "image":"https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+}]
