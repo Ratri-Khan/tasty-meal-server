@@ -1,0 +1,72 @@
+[{
+    "id": "1",
+    "name":"Monika Roy",
+    "like":"2400",
+    "recipes":"4",
+    "experience": "10",
+    "description":"A chef is a culinary artist who possesses a deep passion for food and cooking. They are skilled professionals trained in the art of preparing, cooking, and presenting delicious and visually appealing meals. With a keen understanding of various culinary techniques, flavors, and ingredients, chefs have the ability to transform raw ingredients into extraordinary culinary creations.",
+    "image":"https://d3nn873nee648n.cloudfront.net/900x600/15987/120-SM666564.jpg",
+    "recipeName":{"name1":"Kung Pao Chicken","name2":"Sweet and Sour Pork",           "name3":"Peking Roast Duck"},
+    "recipeImage":{"image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScWtzfx1nJfxgnXcFL9GcicvbsubvJrBiyX7VN8wNVGCLElisI6qa_&usqp=CAE&s","image2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTytbRo-f-emdoW0IyBhLBGH_ncZ4D0dnQE26rZQgLZWQzOBXrW3Qax&usqp=CAE&s","image3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdgNqFa5E3f7ue9Q0Pne9TxOoB8LZKqrWaTxZ8h4B3Gd6FgXLRh6l&usqp=CAE&s"},
+    "ingredients":{"ingredient1":"Chicken broth or stock,Light soy ,Dark Soy Sauce,Hoisin sauce,Chinese black vinegar","ingredient2":"sugar,vinegar,ketchup,vegetables,carrots, red onions.","ingredient3":"duck,cinnamon,ginger,nutmeg,white pepper,cloves, divided,tablespoon honey"}
+},
+{
+    "id": "2",
+    "name":"Sneha Varma",
+    "like":"2000",
+    "recipes":"3",
+    "experience": "8",
+    "description":"A chef is a culinary artist who possesses a deep passion for food and cooking. They are skilled professionals trained in the art of preparing, cooking, and presenting delicious and visually appealing meals. With a keen understanding of various culinary techniques, flavors, and ingredients, chefs have the ability to transform raw ingredients into extraordinary culinary creations.",
+    "image":"https://media.gettyimages.com/id/685007139/photo/chef-in-commercial-kitchen-seasoning-food.jpg?s=612x612&w=0&k=20&c=nl7NDWE6coxObiyuNjUFzj6mVi3zCr2wiNhe75NwVSk=",
+    "recipeName":{"name1":"Mapo Tofu","name2":"Chow Mein","name3":"Chinese Hot Pot"},
+    "recipeImage":{"image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8Z9B_0M4Gt0pSxvLVMTyPv1ED_wJb7PEuuYZazBQMuat7UiCKK8p&usqp=CAE&s","image2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3iyxXds3zve0_fjVWriNvTPfzJMEHAxztTqmL_vcKJfYbthKj3g2z&usqp=CAE&s","image3":"https://lh5.googleusercontent.com/p/AF1QipNDNG1TXfmy4j8IBfzRfRsvp5B9qEJQZaO-PDgy=w92-h92-n-k-no"},
+    "ingredients":{"ingredient1":"Chicken broth or stock,Light soy ,Dark Soy Sauce,Hoisin sauce,Chinese black vinegar","ingredient2":"sugar,vinegar,ketchup,vegetables,carrots, red onions.","ingredient3":"duck,cinnamon,ginger,nutmeg,white pepper,cloves, divided,tablespoon honey"}
+},
+{
+    "id": "3",
+    "name":"Adil Akram",
+    "like":"1900",
+    "recipes":"4",
+    "experience": "9",
+    "description":"A chef is a culinary artist who possesses a deep passion for food and cooking. They are skilled professionals trained in the art of preparing, cooking, and presenting delicious and visually appealing meals. With a keen understanding of various culinary techniques, flavors, and ingredients, chefs have the ability to transform raw ingredients into extraordinary culinary creations.",
+    "image":"https://media.istockphoto.com/id/960597260/photo/the-restaurant-is-always-full.webp?b=1&s=170667a&w=0&k=20&c=ZhiF4YrdChBrc4SxV8YiTEHiqXjkEy0Pbz1fCCFOAx8=",
+    "recipeName":{"name1":"Spring Rolls","name2":"Wonton Soup","name3":" Dumplings"},
+    "recipeImage":{"image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk-sbkHuwijmIiCUEKMbddqnro2kbtvmlvPnH4EjkvU0vQJ2iJYEGp&usqp=CAE&s","image2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTu86ooYpnAL8MABxsBjKkg07TUr_IUNWME6MkkR7_iWC1VUWa8Fu&usqp=CAE&s","image3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6C474de3aOWdTfov26BUkKBhcYtlReB_DX7bQ_5AouLRTyF-Np1G8&usqp=CAE&s"},
+    "ingredients":{"ingredient1":"Chicken broth or stock,Light soy ,Dark Soy Sauce,Hoisin sauce,Chinese black vinegar","ingredient2":"sugar,vinegar,ketchup,vegetables,carrots, red onions.","ingredient3":"duck,cinnamon,ginger,nutmeg,white pepper,cloves, divided,tablespoon honey"}
+},
+{
+    "id": "4",
+    "name":"Amira Gupta",
+    "like":"1500",
+    "recipes":"3",
+    "experience": "7",
+    "description":"A chef is a culinary artist who possesses a deep passion for food and cooking. They are skilled professionals trained in the art of preparing, cooking, and presenting delicious and visually appealing meals. With a keen understanding of various culinary techniques, flavors, and ingredients, chefs have the ability to transform raw ingredients into extraordinary culinary creations.",
+    "image":"https://media.istockphoto.com/id/1298088270/es/foto/joven-hermosa-mujer-sonriente-chef-con-los-brazos-cruzados-en-la-cocina.webp?b=1&s=612x612&w=0&k=20&c=LYGEAMH3aK4y4gQd7964ZJ4agOgzyRSuTZhe2Mv3HXk=",
+    "recipeName":{"name1":"Proper Street Kebabs","name2":"Spicy Crayfish",           "name3":"Lamb Hot Pot"},
+    "recipeImage":{"image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_w52OK3r3z3uRS0LdMFMbcFYY1g1INT3-VvCLc0udGw&s","image2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBXIlo4QWkwObvlv4YsnlYXY0VM8WVP5VD_Q&usqp=CAU","image3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOzK8jFKlpszFm_QxdLrnh6juSZE7tlA3pyjR_z9cBy8p6_q6trUCy&usqp=CAE&s"},
+    "ingredients":{"ingredient1":"Chicken broth or stock,Light soy ,Dark Soy Sauce,Hoisin sauce,Chinese black vinegar","ingredient2":"sugar,vinegar,ketchup,vegetables,carrots, red onions.","ingredient3":"duck,cinnamon,ginger,nutmeg,white pepper,cloves, divided,tablespoon honey"}
+},
+{
+    "id": "5",
+    "name":"Priya Sharma",
+    "like":"2300",
+    "recipes":"5",
+    "experience": "10",
+    "description":"A chef is a culinary artist who possesses a deep passion for food and cooking. They are skilled professionals trained in the art of preparing, cooking, and presenting delicious and visually appealing meals. With a keen understanding of various culinary techniques, flavors, and ingredients, chefs have the ability to transform raw ingredients into extraordinary culinary creations.",
+    "image":"https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "recipeName":{"name1":"Guilin Rice Noodles","name2":"Lanzhou Hand-pulled Noodles","name3":"Steamed Crab"},
+    "recipeImage":{"image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLdkP_dM5vEVxnFPQUzQWpWkc5S-ZoN9FzzSYAtNwRxQYylvsviiV&usqp=CAE&s","image2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQOgM6DT00vjldAwj1Vpoi2TBgiwURHBArUrDOf3rIQSVJ1owQd27&usqp=CAE&s","image3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnulqJsDyS_2cfaOcsuLNLL7dxy2RBxQUtuILfroJSxMDhXgdldJb&usqp=CAE&s"},
+    "ingredients":{"ingredient1":"Chicken broth or stock,Light soy ,Dark Soy Sauce,Hoisin sauce,Chinese black vinegar","ingredient2":"sugar,vinegar,ketchup,vegetables,carrots, red onions.","ingredient3":"duck,cinnamon,ginger,nutmeg,white pepper,cloves, divided,tablespoon honey"}
+},
+{
+    "id": "6",
+    "name":"Vikram Singh",
+    "like":"2500",
+    "recipes":"7",
+    "experience": "14",
+    "description":"A chef is a culinary artist who possesses a deep passion for food and cooking. They are skilled professionals trained in the art of preparing, cooking, and presenting delicious and visually appealing meals. With a keen understanding of various culinary techniques, flavors, and ingredients, chefs have the ability to transform raw ingredients into extraordinary culinary creations.",
+    "image":"https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "recipeName":{"name1":"Fish with Sichuan Pickles","name2":"Kung Pao Chicken","name3":"Red Braised Pork"},
+    "recipeImage":{"image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05V5H4Iy4f2YAEDX7pQX0MJdUpBU19t6iVN2iIMAb9HMAuXzV9q8E&usqp=CAE&s","image2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7STs6E-C1re0I40GHyg_TTo9bfovpi_IgXUhhwobi7lBlikOXeQw7&usqp=CAE&s","image3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONqwhGRUFAXE2rstpffM9NyQGNY06VJafK5tuBJbb9W-6u-xqhJXD&usqp=CAE&s"},
+    "ingredients":{"ingredient1":"Chicken broth or stock,Light soy ,Dark Soy Sauce,Hoisin sauce,Chinese black vinegar","ingredient2":"sugar,vinegar,ketchup,vegetables,carrots, red onions.","ingredient3":"duck,cinnamon,ginger,nutmeg,white pepper,cloves, divided,tablespoon honey"}
+}]
